@@ -1,0 +1,7 @@
+
+RETT          IPhone 7          Mobile Phone          125000.0        10
+YYTH          IPad          Electronic Devices          23000.0        5
+PPOP          IPhone i3          Mobile Device          255000.0        7
+WTRT          Laptop i7          Laptop          211000.0        5
+EP044          Apple Watch IO3          Watch          10000.0        8
+EMDR4          iPad 34          Tablet          23000.0        6
